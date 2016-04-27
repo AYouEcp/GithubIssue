@@ -1,6 +1,6 @@
 # Issues
 
-**TODO: Add description: Nothing**
+**TODO: Add description**
 
 ## Installation
 
